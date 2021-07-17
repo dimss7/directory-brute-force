@@ -1,6 +1,5 @@
 # directory-brute-force
-Simple tools to find directories on websites
-Download : 
+Simple tools to find directories on websites 
  - git clone https://github.com/dimss7/directory-brute-force
  - cd directory-brute-force
  - chmod +x dirbrute.rb
